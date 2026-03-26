@@ -4,8 +4,8 @@
 
 Think before posting content
 
-
 Maintain privacy settings properly
+
 Share positive and meaningful content
 Verify information before sharing
 Respect others’ opinions and diversity
