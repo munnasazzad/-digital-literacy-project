@@ -1,7 +1,7 @@
 # Part B – Social Media Do’s and Don’ts Checklist
 
 # Do’s
-\Think before posting content
+*Think before posting content
 \Maintain privacy settings properly
 \Share positive and meaningful content
 \Verify information before sharing
