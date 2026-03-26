@@ -2,7 +2,7 @@
 As a college student in India, navigating a highly digital campus environment—from UPI payments at the canteen to using public Wi-Fi for research. Staying secure requires more than just a strong password; it requires digital situational awareness.
 
 # The Checklist
-[ ] Enable Two-Factor Authentication (2FA): Go beyond passwords. Enable 2FA on your university email (G-Suite/Outlook), LinkedIn, and Instagram. Use an authenticator app rather than SMS whenever possible.
+@ Enable Two-Factor Authentication (2FA): Go beyond passwords. Enable 2FA on your university email (G-Suite/Outlook), LinkedIn, and Instagram. Use an authenticator app rather than SMS whenever possible.
 
 [ ] Secure Your UPI PIN: Never enter your UPI PIN to receive money. Remember: a QR code or PIN is only required to send money or check your balance. If someone asks you to "scan and enter PIN" to get a refund or payment, it is a scam.
 
