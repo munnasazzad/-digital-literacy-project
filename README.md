@@ -23,6 +23,11 @@ Task 4: Professional Communication Learning to communicate professionally is a t
 
 Task 5: Cybersecurity Awareness Online threats like UPI fraud are real in India. I wrote a case study on how these scams work and provided a prevention checklist with official reporting channels like Helpline 1930 to keep our batch safe.
 
-🔗 Important Links Digital Literacy Quiz (Google Form): https://docs.google.com/forms/d/e/1FAIpQLSfcWl0FYap1-JxqtVOzUEC8xkZpEbXXLayIH4F_yrK3iKOmcg/viewform?usp=publish-editor Digital Literacy Awareness Quiz (Responses) https://docs.google.com/spreadsheets/d/18dLvgFMiFvb_e_7nRbOugpb5Vgt-Pvk_kPaTrQTU6X4/edit?usp=sharing image
+🔗 Important Links 
+
+Digital Literacy Quiz (Google Form):
+https://docs.google.com/forms/d/e/1FAIpQLSdlcOpUzLoUlt3MqeBfSKBuwhx4KLxfJn2HCJT1LIlNYEqixg/viewform?usp=publish-editor 
+
+Digital Literacy Awareness Quiz (Responses) https://docs.google.com/spreadsheets/d/1a0XWUg6Bh_L604eKr9qJaAW0eY5oC2zJIaJulqNPrC4/edit?resourcekey=&gid=1314671882#gid=1314671882
 
 National Cyber Crime Portal: cybercrime.gov.in
